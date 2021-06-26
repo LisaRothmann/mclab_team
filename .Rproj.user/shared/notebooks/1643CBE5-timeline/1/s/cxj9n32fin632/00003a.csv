@@ -1,0 +1,8 @@
+"0","timeline_plot<-ggplot(raw,"
+"0","                      aes(x=final_year, y = position, col=degree, label=student)) "
+"0",""
+"0","# Add the label Milestones"
+"0","timeline_plot<-timeline_plot+labs(col=""student"") "
+"0",""
+"0","# Print plot"
+"0","timeline_plot"

@@ -1,4 +1,0 @@
-"0","raw <- gsheet2tbl(""https://docs.google.com/spreadsheets/d/1ywH43KsxIB2HjnLgAuoCt-1uIyuagDZgIQttlOnmIWs/edit?usp=sharing"", ""graduates"")
-"
-"2","Missing column names filled in: 'X10' [10], 'X11' [11]"
-"2","Duplicated column names deduplicated: 'co_supervisor' => 'co_supervisor_1' [7]"

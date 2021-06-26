@@ -1,0 +1,3 @@
+"0","raw <- gsheet2tbl(""https://docs.google.com/spreadsheets/d/1ywH43KsxIB2HjnLgAuoCt-1uIyuagDZgIQttlOnmIWs/edit?usp=sharing"", ""graduates"")"
+"0",""
+"0","raw$final_year <- ymd(raw$final_year) #setting submission as a date class"

@@ -1,0 +1,3 @@
+"0","event_colours <- c(""#D11141"", ""#F37735"", ""#F37735"", ""#00b159"", ""#00b159"") #red, orange, green = PhD, MSc/MSc Agric, Hons"
+"0","event_levels <- c(""PhD"", ""MSc"", ""MSc Agric"", ""BSc Hons"", ""BSc Agric"") "
+"0","raw$degree <- factor(raw$degree, levels= event_levels, ordered=TRUE)"
