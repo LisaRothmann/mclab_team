@@ -4,7 +4,7 @@
 "0",""
 "0",""
 "0","# Lets offset the labels 0.2 away from scatter points"
-"0","text_offset <- 0.2 "
+"0","text_offset <- 0.1"
 "0",""
 "0","# Let's use the absolute value since we want to add the text_offset and increase space away from the scatter points "
 "0","absolute_value<-(abs(raw$position)) "

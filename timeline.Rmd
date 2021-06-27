@@ -136,7 +136,7 @@ timeline_plot
 
 
 # Lets offset the labels 0.2 away from scatter points
-text_offset <- 0.2 
+text_offset <- 0.1
 
 # Let's use the absolute value since we want to add the text_offset and increase space away from the scatter points 
 absolute_value<-(abs(raw$position)) 
@@ -148,10 +148,12 @@ raw$text_position<- text_position * raw$direction
 raw
 
 # Now we can add the labels to the timeline for our milestones.
-timeline_plot<-timeline_plot+geom_text(aes(y=raw$text_position,label=student),size=3.5, vjust=0.6)
+timeline_plot<-timeline_plot+geom_text(aes(y=raw$text_position,label=student), size= 3, vjust=0.6)
 
 # Print plot
 print(timeline_plot)
+timeline_plot
 ```
 
 
+3

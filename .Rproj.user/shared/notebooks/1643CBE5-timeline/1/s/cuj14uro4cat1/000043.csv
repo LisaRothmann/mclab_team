@@ -1,6 +1,6 @@
 "0",""
 "0","# Now we can add the labels to the timeline for our milestones."
-"0","timeline_plot<-timeline_plot+geom_text(aes(y=raw$text_position,label=student),size=3.5, vjust=0.6)"
+"0","timeline_plot<-timeline_plot+geom_text(aes(y=raw$text_position,label=student), size= 3, vjust=0.6)"
 "0",""
 "0","# Print plot"
 "0","print(timeline_plot)"
