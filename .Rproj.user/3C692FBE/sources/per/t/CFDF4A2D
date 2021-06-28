@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1624866975428.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "244425188",
+    "id" : "CFDF4A2D",
+    "lastKnownWriteTime" : 1624867093,
+    "last_content_update" : 1624867093380,
+    "path" : "~/GitHub/mclab_team/timeline.Rmd",
+    "project_path" : "timeline.Rmd",
+    "properties" : {
+        "cursorPosition" : "156,0",
+        "last_setup_crc32" : "7DF30243bb338d19",
+        "scrollLine" : "141"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
